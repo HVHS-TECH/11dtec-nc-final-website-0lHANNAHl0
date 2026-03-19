@@ -1,0 +1,32 @@
+nav {
+    background-color: rgb(0, 2, 22);
+    padding: 20px;    
+    margin: 0px;
+}
+
+body {
+    background-color:#545863;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding-right: 2%;
+}
+
+
+.worst{
+    background-color:#F6AA1C;
+}
+
+.Nero{
+    background-color:#C6934B;
+}
+
+.Henry{
+    background-color: #77240B;
+}
+
+.Ivan{
+    background-color: #67091C;
+}
